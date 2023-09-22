@@ -3,6 +3,7 @@ My solution for the final proposed task from the Language Theory and Compilers d
 
 ## Task Description (Descrição do Trabalho)
 Development of the functions scope of the program, as well as the implementation of the "retorn" instruction, which allows for the funciton to be ended and return its value. Also some other changes and adaptations were made to the base source code to make this possible and better.
+
 (Desenvolvimento do escopo de funções do programa, bem como a implementação da instrução "retorne", que encerra a execução da função e retorna seu valor. Também outras mudanças e adaptações foram feitas ao código base para fazer isso possível e melhor.)
 
 ## Folders and Files Overview (Visão Geral das Pastas e Arquivos)
