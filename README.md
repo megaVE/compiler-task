@@ -1,5 +1,5 @@
 # Compiler Task (Tarefa de Compiladores)
-#### My solution for the final proposed task from the Language Theory and Compilers discipline, during the 4th period of the course | Resolução minha do trabalho final proposto durante a disciplina de Teoria de Linguagens e Compiladores, no 4º Período do curso.
+My solution for the final proposed task from the Language Theory and Compilers discipline, during the 4th period of the course | Resolução minha do trabalho final proposto durante a disciplina de Teoria de Linguagens e Compiladores, no 4º Período do curso.
 
 ## Task Description (Descrição do Trabalho)
 Development of the functions scope of the program, as well as the implementation of the "retorn" instruction, which allows for the funciton to be ended and return its value. Also some other changes and adaptations were made to the base source code to make this possible and better.
